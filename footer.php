@@ -41,4 +41,10 @@
     <p class="credit"> Created by <span> Bill'sUpdate</span> @ <?php echo date('Y'); ?> | 
     all rights reserved </p>
 
+    <!----------------------Download Now Section----------------->
+<section class="download">
+    <h1><i>Download The Application <br> on Apple or PlayStore</i></h1>
+    <a href="" class="button"> <i class="fa fa-download"></i> DOWNLOAD</a>
+</section>
+
 </section>
