@@ -43,7 +43,7 @@
 
     <!----------------------Download Now Section----------------->
 <section class="download">
-    <h1><i>Download The Application <br> on Apple or PlayStore</i></h1>
+    <h1><yStore>Download The Application <br> on Appl<i class="fab fa-apple"></i> or PlayStor<i class="fa fa-play"></i></i></h1>
     <a href="" class="button"> <i class="fa fa-download"></i> DOWNLOAD</a>
 </section>
 
