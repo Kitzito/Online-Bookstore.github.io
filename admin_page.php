@@ -111,7 +111,7 @@ if (!isset($admin_id)) {
                             <div class = "box">
                                 <?php
                                 $select_admins = mysqli_query($conn, "SELECT * FROM `users` WHERE user_type = 'admin'") or die('query failed');
-                                $number_of_admins = mysqli_num_rows($select_users);
+                                $number_of_admins = mysqli_num_rows($select_admins);
                                 ?>
                                 <h3><?php echo $number_of_admins; ?></h3>
                                 <p>admin users</p>
