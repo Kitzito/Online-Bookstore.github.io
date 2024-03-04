@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="fontawesome-free-6.2.1-web/css/all.css">
 
 <section class="footer">
 
@@ -24,7 +25,7 @@
             <h3>contact info</h3>
             <p> <i class="fas fa-phone"></i> +237682726566</p>
             <p> <i class="fas fa-phone"></i> +237620776218</p>
-            <p> <i class="fas fa-envelope"></i>admin@gmail.com </p>
+            <p> <i class="fas fa-envelope"></i>mnkitzito@gmail.com </p>
             <p> <i class="fas fa-map-marker-alt"></i>LMU-Buea</p>
         </div>
 
@@ -43,7 +44,7 @@
 
     <!----------------------Download Now Section----------------->
 <section class="download">
-    <h1>Download The Application <br> on Appl<i class="fab fa-apple"></i> or PlayStor<i class="fa fa-play"></i></i></h1>
+    <h1>Download The Application <br> on Apple<i class="fab fa-apple"></i> or PlayStore<i class="fa fa-play"></i></i></h1>
     <a href="" class="button"> <i class="fa fa-download"></i> DOWNLOAD</a>
 </section>
 
